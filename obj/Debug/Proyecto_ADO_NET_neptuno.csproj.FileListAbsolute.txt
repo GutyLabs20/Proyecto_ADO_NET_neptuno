@@ -1,0 +1,10 @@
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\bin\Debug\Proyecto_ADO_NET_neptuno.exe.config
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\bin\Debug\Proyecto_ADO_NET_neptuno.exe
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\bin\Debug\Proyecto_ADO_NET_neptuno.pdb
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.Form1.resources
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.Properties.Resources.resources
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.csproj.GenerateResource.cache
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.csproj.CoreCompileInputs.cache
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.exe
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.pdb
+C:\Users\glabs\Documents\Visual Studio 2019\MisProyectos\Proyecto_ADO_NET_neptuno\obj\Debug\Proyecto_ADO_NET_neptuno.csprojAssemblyReference.cache
